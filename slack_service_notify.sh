@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Edit your Slack hook URL and footer icon URL
-SLACK_URL=https://hooks.slack.com/services/XXXXXXXXX/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+SLACK_URL=https://hooks.slack.com/services/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
 FOOTER_ICON=http://env.baarnes.com/Nagios.png
 
 # Service Notification command example :
